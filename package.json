@@ -1,0 +1,14 @@
+{
+  "name": "unzip",
+  "version": "0.1.0",
+  "node-red": {
+    "nodes": {
+      "unzip": "61-unzip.js"
+    }
+  },
+  "dependencies": {
+    "decompress":"4.2.0"
+  },
+  "author": "digitalairways",
+  "license": "http://www.wtfpl.net"
+}
